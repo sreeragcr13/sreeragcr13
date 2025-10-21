@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Sreerag C R**
 
-🎯 ** Data Analyst | Aspiring Data Engineer | Mechanical Engineer turned Data Enthusiast**
+🎯 **Data Analyst | Aspiring Data Engineer | Mechanical Engineer turned Data Enthusiast**
 
 I’m passionate about turning data into decisions. With a background in **Mechanical Engineering** and experience as a **Product Cost Analyst at Alstom**, I developed a strong analytical mindset and a deep interest in business data and process optimization.  
 
@@ -33,7 +33,7 @@ Currently, I’m focused on building a strong foundation in **data analytics and
 
 ### 📫 Connect with Me
 📧 **Email:** sreeragcr547@gmail.com or sreeragcrmech@gmail.com  
-💼 **LinkedIn:** [https://www.linkedin.com/in/sreeragcr99]/(#)  
+💼 [**LinkedIn:**](https://www.linkedin.com/in/sreeragcr99/9)  
 📸 **Instagram:** [@sreerag.cr_](https://www.instagram.com/whysosreeee)  
 
 ---
