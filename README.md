@@ -38,7 +38,7 @@ _sreeragcr547@gmail.com_
 or 
 _sreeragcrmech@gmail.com_  
 
-💼 **LinkedIn:** [Sreerag CR](https://www.linkedin.com/in/sreeragcr99/9)  
+💼 **LinkedIn:** [Sreerag CR](https://www.linkedin.com/in/sreerag-cr/)  
 📸 **Instagram:** [@sreerag.cr_](https://www.instagram.com/sreerag.cr_/)  
 
 ---
