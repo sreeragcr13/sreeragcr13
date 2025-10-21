@@ -4,7 +4,7 @@
 
 I’m passionate about turning data into decisions. With a background in **Mechanical Engineering** and experience as a **Product Cost Analyst at Alstom**, I developed a strong analytical mindset and a deep interest in business data and process optimization.  
 
-Currently, I’m focused on building a strong foundation in **data analytics and cloud data engineering** — mastering tools like **SQL, Python, Power BI, Azure and AWS ** to create data-driven solutions that make an impact.  
+Currently, I’m focused on building a strong foundation in **data analytics and cloud data engineering** — mastering tools like **SQL, Python, Power BI, Azure and AWS** to create data-driven solutions that make an impact.  
 
 ---
 
