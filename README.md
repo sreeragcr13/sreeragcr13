@@ -32,9 +32,14 @@ Currently, I’m focused on building a strong foundation in **data analytics and
 ---
 
 ### 📫 Connect with Me
-📧 **Email:** sreeragcr547@gmail.com or sreeragcrmech@gmail.com  
-💼 [**LinkedIn:**](https://www.linkedin.com/in/sreeragcr99/9)  
-📸 **Instagram:** [@sreerag.cr_](https://www.instagram.com/whysosreeee)  
+
+📧 **Email:**
+_sreeragcr547@gmail.com_ 
+or 
+_sreeragcrmech@gmail.com_  
+
+💼 **LinkedIn:** [Sreerag CR](https://www.linkedin.com/in/sreeragcr99/9)  
+📸 **Instagram:** [@sreerag.cr_](https://www.instagram.com/sreerag.cr_/)  
 
 ---
 
