@@ -1,47 +1,47 @@
-## 👋 Hi, I'm **Sreerag C R**
+# 👋 Hi, I'm Sreerag C R
 
-🎯 **Data Analyst | Aspiring Data Engineer | Mechanical Engineer turned Data Enthusiast**
+**🎯 Data Engineer in Progress | Data Analyst | Ex-Alstom | Mechanical Engineer turned Data Professional**
 
-I’m passionate about turning data into decisions. With a background in **Mechanical Engineering** and experience as a **Product Cost Analyst at Alstom**, I developed a strong analytical mindset and a deep interest in business data and process optimization.  
+I'm passionate about solving problems with data. With 2.5 years of experience as a Product Cost Analyst at Alstom, I built a strong analytical foundation working with cost, procurement, and engineering datasets. Since then, I've been transitioning into Data Engineering, focusing on cloud, ETL pipelines, and modern data tools.
 
-Currently, I’m focused on building a strong foundation in **data analytics and cloud data engineering** — mastering tools like **SQL, Python, Power BI, Azure and AWS** to create data-driven solutions that make an impact.  
-
----
-
-### 💡 Areas of Interest
-- Data Analysis & Visualization  
-- Business Intelligence & Reporting  
-- Cloud Data Engineering (Azure)  
-- Cost & Performance Optimization  
+Currently, I'm building real-world projects in AWS, Azure, Python, SQL, Power BI, and big-data platforms to deepen my end-to-end data engineering skills.
 
 ---
 
-### 🧰 Tools & Technologies
+## 💡 What I'm Interested In
+
+- Data Engineering & ETL Pipelines
+- Cloud (AWS & Azure)
+- Data Analysis & Visualization
+- Process & Cost Optimization
+
+---
+
+## 🧰 Tools & Technologies
+
 **Languages:** Python, SQL  
+**Cloud & Data:** AWS (S3, Glue, Lambda, Athena), Azure (ADF, ADLS, Databricks)  
+**Processing:** PySpark, Pandas  
 **Visualization:** Power BI, Excel  
-**Cloud & Data:** Azure Data Factory, Databricks, Synapse (learning)  
-**Other Skills:** DAX, Data Cleaning, EDA, SAP (cost analysis)  
+**Other:** DAX, Git, SAP (Costing)
 
 ---
 
-### 📈 Current Goals
-- Completing **end-to-end data analytics portfolio projects**  
-- Learning **Azure-based data pipelines**  
-- Building a strong **data engineering portfolio**  
+## 📈 What I'm Working On
+
+- End-to-end cloud data engineering projects (AWS & Azure)
+- Scalable ETL workflows and data pipelines
+- Improving my portfolio with production-style implementations
+- MBA in Artificial Intelligence (Amrita Online)
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
-📧 **Email:**
-_sreeragcr547@gmail.com_ 
-or 
-_sreeragcrmech@gmail.com_  
-
-💼 **LinkedIn:** [Sreerag CR](https://www.linkedin.com/in/sreerag-cr/)  
-📸 **Instagram:** [@sreerag.cr_](https://www.instagram.com/sreerag.cr_/)  
+📧 **Email:** [sreeragcr547@gmail.com](mailto:sreeragcr547@gmail.com) / [sreeragcrmech@gmail.com](mailto:sreeragcrmech@gmail.com)  
+💼 **LinkedIn:** [Sreerag CR](https://linkedin.com/in/sreerag-cr)  
+📸 **Instagram:** [@sreerag.cr_](https://instagram.com/sreerag.cr_)
 
 ---
 
-> “Data tells stories — I’m learning to make them speak clearly.”
-
+> *"Data becomes powerful when turned into clarity — that's what I strive to build."*
