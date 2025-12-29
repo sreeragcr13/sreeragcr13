@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sreerag C R
 
-**🚀 Aspiring Data Engineer | Data Analyst | Ex-Alstom | Mechanical Engineer → Data Professional**
+**Aspiring Data Engineer | Data Analyst | Ex-Alstom | Mechanical Engineer → Data Professional**
 
 I’m a data professional passionate about building reliable, scalable data systems. With **2.5 years of experience at Alstom** as a Product Cost Analyst, I developed a strong analytical foundation working with cost, procurement, and engineering data. I’m now transitioning into **Data Engineering**, focusing on cloud platforms, ETL pipelines, and modern data architectures.
 
@@ -8,7 +8,7 @@ I actively build **real-world, end-to-end data engineering projects** using AWS 
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 - Data Engineering & ETL Pipelines  
 - Cloud Data Platforms (AWS & Azure)  
 - Big Data Processing & Analytics  
@@ -16,7 +16,7 @@ I actively build **real-world, end-to-end data engineering projects** using AWS 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**  
 - Python, SQL  
@@ -36,7 +36,7 @@ I actively build **real-world, end-to-end data engineering projects** using AWS 
 
 ---
 
-## 📈 Currently Working On
+## Currently Working On
 - End-to-end **cloud data engineering projects** (AWS & Azure)  
 - **Scalable ETL workflows** and orchestration pipelines  
 - Production-style implementations and performance optimization  
