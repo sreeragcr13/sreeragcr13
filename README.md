@@ -1,40 +1,31 @@
 # 👋 Hi, I'm Sreerag C R
 
-**Aspiring Data Engineer | Data Analyst | Ex-Alstom | Mechanical Engineer → Data Professional**
+**Data Engineering Professional | Ex-Alstom | Analytics → Data Engineering**
 
-I’m a data professional passionate about building reliable, scalable data systems. With **2.5 years of experience at Alstom** as a Product Cost Analyst, I developed a strong analytical foundation working with cost, procurement, and engineering data. I’m now transitioning into **Data Engineering**, focusing on cloud platforms, ETL pipelines, and modern data architectures.
+I’m a performance-driven Data Engineer with **2+ years of experience** building **scalable ETL/ELT pipelines**, optimizing data platforms, and enabling data-driven decision-making. I transitioned from **product cost & analytics** into **data engineering**, combining strong business context with solid engineering practices.
 
-I actively build **real-world, end-to-end data engineering projects** using AWS and Azure to strengthen my hands-on experience across ingestion, transformation, storage, and analytics.
+### 🔧 What I work on
+- Designing **end-to-end data pipelines** (batch & incremental, CDC)
+- Building and optimizing **data lakes & warehouses**
+- Automating workflows using **Python & Apache Airflow**
+- Ensuring **data quality, governance, and performance**
+- Translating raw data into **actionable insights & dashboards**
 
----
+### ☁️ Tech Stack
+- **Languages:** Python, SQL, PySpark  
+- **Cloud:** AWS (S3, Glue, Athena, Redshift, Lambda), Azure (ADF, ADLS, Databricks), GCP (BigQuery)  
+- **Data & Orchestration:** Airflow, Spark, Snowflake, Kafka (basics)  
+- **Analytics & Tools:** Power BI, Pandas, Git, Docker, Jupyter  
 
-## Areas of Interest
-- Data Engineering & ETL Pipelines  
-- Cloud Data Platforms (AWS & Azure)  
-- Big Data Processing & Analytics  
-- Process Automation & Cost Optimization  
+### 📌 Highlights
+- Delivered pipelines processing **50K+ records/day**
+- Achieved **€7M+ cost savings** through data-driven analytics
+- Improved query performance by **30–85%** via optimized data models
+- Built production-ready projects on **AWS, Azure, and Snowflake**
 
----
+📂 Check out my repositories for **real-world data engineering projects**  
+📬 Open to **Data Engineer / Analytics Engineer** roles
 
-##  Tech Stack
-
-**Languages**  
-- Python, SQL  
-
-**Cloud & Data Platforms**  
-- AWS: S3, Glue, Lambda, Athena  
-- Azure: Data Factory, ADLS, Databricks  
-
-**Data Processing**  
-- PySpark, Pandas  
-
-**Analytics & Visualization**  
-- Power BI, Excel, DAX  
-
-**Other Tools**  
-- Git, SAP (Costing & Analytics)
-
----
 
 ## Currently Working On
 - End-to-end **cloud data engineering projects** (AWS & Azure)  
