@@ -2,7 +2,7 @@
 
 **Data Engineering Professional | Ex-Alstom | Analytics → Data Engineering**
 
-I’m a performance-driven Data Engineer with **2+ years of experience** building **scalable ETL/ELT pipelines**, optimizing data platforms, and enabling data-driven decision-making. I transitioned from **product cost & analytics** into **data engineering**, combining strong business context with solid engineering practices.
+I’m a performance-driven Data Engineer with **3+ years of experience** building **scalable ETL/ELT pipelines**, optimizing data platforms, and enabling data-driven decision-making. I transitioned from **product cost & analytics** into **data engineering**, combining strong business context with solid engineering practices.
 
 ### 🔧 What I work on
 - Designing **end-to-end data pipelines** (batch & incremental, CDC)
